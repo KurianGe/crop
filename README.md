@@ -1,6 +1,6 @@
-This is a simple crop management application built using flask.
+This is a simple crop management application built using Flask.
 
-Create a virtual enivronment
+Create a virtual environment
 $ python3 -m venv env
 $ source env/bin/activate
 
