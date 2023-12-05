@@ -1,5 +1,6 @@
 This is a simple crop management application built using Flask.
 
+Go to the folder crop/crop/ and 
 Create a virtual environment
 $ python3 -m venv env
 $ source env/bin/activate
